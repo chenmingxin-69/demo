@@ -6,4 +6,7 @@ public class FirstTest {
         System.out.println("嘿嘿");
         System.out.println("嘻嘻");
     }
+    public int sum(int a, int b){
+        return a+b;
+    }
 }
